@@ -1,6 +1,6 @@
 # CS-230
 
--Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+-Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?/n
 The Gaming Room offers the game Draw it or Lose on Android and they would like to scale and offer the game for more operating systems. The game is web-based and it requires a large library of images as well as the ability to support multiple players and teams.
 
 -What did you do particularly well in developing this documentation?
